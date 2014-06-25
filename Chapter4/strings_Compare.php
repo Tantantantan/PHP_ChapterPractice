@@ -1,5 +1,5 @@
 <html>
-<title></title>
+<title>Compare Strings</title>
 <form action = "<?php $_SERVER["PHP_SELF"];?>" method = "POST"><pre>
 	Enter first string:  <input type = "text" name = "1ststr">
 	Enter second string: <input type = "text" name = "2ndstr">

@@ -1,5 +1,5 @@
 <html>
-<title>Here_Documents</title>
+<title>Here Documents</title>
 <body>
 <?php
 echo $string = "This is a simple string.<br />";

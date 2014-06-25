@@ -1,5 +1,5 @@
 <html>
-<title></title>
+<title>String Manipulate</title>
 <body>
 <h2>using strlen()</h2>	
 <?php

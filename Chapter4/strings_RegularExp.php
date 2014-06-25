@@ -1,5 +1,5 @@
 <html>
-<title>Regular Expression</title>
+<title>Regular Expressions</title>
 <body>
 <h2>Regular Expressions</h2>
 <?php

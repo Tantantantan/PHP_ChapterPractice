@@ -1,5 +1,5 @@
 <html>
-<title>HTML functions</title>
+<title>HTML Functions</title>
 <body>
 
 <?php

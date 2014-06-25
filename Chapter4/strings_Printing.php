@@ -1,5 +1,5 @@
 <html>
-<title>Printing types in PHP</title>
+<title>Printing Types in PHP</title>
 <body>
 <h1>Using Print()</h1>
 <?php
