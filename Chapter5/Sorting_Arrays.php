@@ -4,11 +4,11 @@
 <h3>using ksort()</h3>
 <body>
 	<?php
-		$names = array( "Jonathan" => "Magay"	 ,
-				 	    "Rizza"	   => "Gorospe"  ,
-				 	    "Philipp"  => "Lam"	     ,
-				 	    "Romz"	   => "Vargaz"   ,
-				 	    "Gerald"   => "Gono"	 , 
+		$names = array( 	    "Jonathan" => "Magay"	,
+				 	    "Rizza"    => "Gorospe"  	,
+				 	    "Philipp"  => "Lam"		,
+				 	    "Romz"     => "Vargaz"  	,
+				 	    "Gerald"   => "Gono"	, 
 					);
 ################################################################################
 	ksort($names);							
