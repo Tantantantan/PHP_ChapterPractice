@@ -9,6 +9,7 @@
 			<channel>
 
 <?php
+
 // news items to produce RSS for
 $items = array(
 array(
